@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saurabh+%F0%9F%91%8B;ML+Researcher+%7C+Competitive+Coder;Building+Cool+Stuff+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saurabh+%F0%9F%91%8B;ML+Researcher;Competitive+Coder;Building+Cool+Stuff+%E2%9A%A1" alt="Typing SVG" />
 
-### MSc AI @ University of Edinburgh | LeetCode Top 2.67% | Open Source Enthusiast
+### MSc AI @ University of Edinburgh | LeetCode Top 2.44% | Open Source Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=flat-square&logo=google-chrome&logoColor=white)](https://saurabh-developer-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-mallik)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top_2.67%25-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Saurabh_Mallik/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/saurabh_mallik)
-[![Email](https://img.shields.io/badge/Email-s2892267%40ed.ac.uk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:s2892267@ed.ac.uk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top_2.44%25-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/saurabhmallik497/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Saurabh66)
 
 </div>
 
@@ -16,13 +15,13 @@
 
 ## 🚀 About Me
 
-- 🎓 **MSc Artificial Intelligence** student at University of Edinburgh (graduating Aug 2026)
-- 🔬 Former **Research Fellow** at DRDO working on real-time computer vision for defense systems
-- 💻 Ex-**Software Engineer** at Paytm
+- 🎓 **MSc Artificial Intelligence** student at University of Edinburgh
+- 🔬 Former **Research Fellow** at DRDO (Defence Research and Development Organization) working on real-time computer vision for laser weapon defense systems
+- 💻 Ex-**Software Engineer** at Paytm (Unicorn fintech startup)
 - 📝 Published **5 research papers** in ML optimization and transportation systems
-- 🏆 **LeetCode Top 2.67%** (2005 rating) | **Codeforces Expert** (1618)
-- 🌱 Currently exploring: **Bitcoin/Lightning Network, Agentic AI, Mechanistic Interpretability**
-- 🎯 Open to collaborating on **Bitcoin projects, Open-source ML tools, Educational tech**
+- 🏆 **LeetCode Top 2.44%** (2005 rating) | **Codeforces Expert** (1618)
+- 🌱 Currently exploring: **Bitcoin/Lightning Network, Agentic AI, Mechanistic Interpretability, Reinforcement Learning, NLP and Robotics**
+- 🎯 Open to collaborating on **Bitcoin projects, Open-source ML tools, Agentic AI workflows, Educational tech, Medtech**
 
 ---
 
@@ -45,14 +44,14 @@
 ![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -62,10 +61,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saurabh-66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-66&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-66&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -77,12 +72,12 @@
 
 | Platform | Rating | Rank | Problems Solved |
 |----------|--------|------|-----------------|
-| 🟠 **LeetCode** | 2005 (Max: 2048) | **Top 2.67%** | **1400+** |
+| 🟠 **LeetCode** | 2005 (Max: 2048) | **Top 2.44%** | **1400+** |
 | 🔵 **Codeforces** | 1618 (Expert) | Blue Coder | 270+ |
 | 🏅 **Google Kickstart 2019** | Round G | 1195/110,000+ | - |
 | 🏅 **Google Code Jam 2020** | - | Top 25% | Qualified R1 |
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Saurabh_Mallik?theme=dark&font=Karma)](https://leetcode.com/u/Saurabh_Mallik/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Saurabh_Mallik?theme=dark&font=Karma)](https://leetcode.com/u/saurabhmallik497/)
 
 </div>
 
@@ -117,7 +112,7 @@ Raycasting-based 3D game engine built with Pygame. Currently used in robotics re
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Saurabh-66/Pathfinding-Algorithm-Visualizer?style=flat-square&color=yellow)
 
-Interactive visualization of BFS, Dijkstra, and A* algorithms. Educational tool helping students understand graph algorithms.
+Interactive visualization of BFS, Dijkstra and A* algorithms. Educational tool and visualizer helping students understand graph algorithms.
 
 **Highlights:**
 - 📊 Real-time algorithm visualization
@@ -169,7 +164,7 @@ Published **5 papers** in peer-reviewed journals on ML optimization and intellig
 - 🪙 **Bitcoin & Lightning Network** - Exploring payment channels and Layer 2 solutions
 - 🧠 **Mechanistic Interpretability** - Understanding transformer internals
 - ⚡ **JAX/Flax** - High-performance numerical computing
-- 🤖 **Agentic AI Systems** - Dissertation research on RL hyperparameter optimization
+- 🤖 **Agentic AI Systems** - Currently doing research on RL hyperparameter optimization during runtime
 
 ---
 
@@ -188,7 +183,6 @@ Published **5 papers** in peer-reviewed journals on ML optimization and intellig
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00D9FF?style=for-the-badge)](https://saurabh-developer-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saurabh-mallik)
-[![Email](https://img.shields.io/badge/Email-s2892267%40ed.ac.uk-EA4335?style=for-the-badge&logo=gmail)](mailto:s2892267@ed.ac.uk)
 
 </div>
 
@@ -202,6 +196,6 @@ Taught data structures and algorithms to 1000+ students as Coding Club Coordinat
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Saurabh-66&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**"Building the future, one commit at a time"** 🚀
+**"Building agentic AI workflows, one commit at a time"** 🚀
 
 </div>
