@@ -55,17 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saurabh-66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-66&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🏆 Competitive Programming
 
 <div align="center">
@@ -77,7 +66,7 @@
 | 🏅 **Google Kickstart 2019** | Round G | 1195/110,000+ | - |
 | 🏅 **Google Code Jam 2020** | - | Top 25% | Qualified R1 |
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Saurabh_Mallik?theme=dark&font=Karma)](https://leetcode.com/u/saurabhmallik497/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/saurabhmallik497?theme=dark&font=Karma)](https://leetcode.com/u/saurabhmallik497/)
 
 </div>
 
